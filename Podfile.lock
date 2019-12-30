@@ -1,0 +1,26 @@
+PODS:
+  - AFNNetworking (3.4.8):
+    - SDWebImage
+    - SVProgressHUD
+  - SDWebImage (5.3.3):
+    - SDWebImage/Core (= 5.3.3)
+  - SDWebImage/Core (5.3.3)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - AFNNetworking
+
+SPEC REPOS:
+  trunk:
+    - AFNNetworking
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  AFNNetworking: c0a09b2950113cc8a939c0c8de4f91bf7020737a
+  SDWebImage: 51ab1ce3ebd20dec6665ae8ba25c928da323db41
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 8b1d5791d3f6e4baa789c6c74ef12980f88734f5
+
+COCOAPODS: 1.8.0.beta.2
